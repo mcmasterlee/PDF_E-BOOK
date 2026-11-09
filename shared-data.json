@@ -2395,8 +2395,8 @@
       "lv": "고등",
       "sub": "과학",
       "title": "오투 고등 통합과학 1 (22개정)",
-      "pdf": null,
-      "ibook": null,
+      "pdf": 1794185784579,
+      "ibook": 1794185785522,
       "pdfReq": null,
       "ibookReq": null
     },
@@ -2567,26 +2567,6 @@
       "title": "오투 초등 과학 6-2 (22개정)",
       "pdf": 1793683620000,
       "ibook": 1793683620000,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
-      "id": 258,
-      "lv": "고등",
-      "sub": "과학",
-      "title": "오투 통합과학 1 (22개정)",
-      "pdf": null,
-      "ibook": null,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
-      "id": 259,
-      "lv": "고등",
-      "sub": "과학",
-      "title": "오투 통합과학 2 (22개정)",
-      "pdf": null,
-      "ibook": null,
       "pdfReq": null,
       "ibookReq": null
     },
@@ -2835,8 +2815,8 @@
       "lv": "고등",
       "sub": "과학",
       "title": "완자 고등 통합과학 1 (22개정)",
-      "pdf": null,
-      "ibook": null,
+      "pdf": 1794185201986,
+      "ibook": 1794185202787,
       "pdfReq": null,
       "ibookReq": null
     },
@@ -2845,8 +2825,8 @@
       "lv": "고등",
       "sub": "과학",
       "title": "완자 고등 통합과학 2 (22개정)",
-      "pdf": null,
-      "ibook": null,
+      "pdf": 1794185208720,
+      "ibook": 1794185209568,
       "pdfReq": null,
       "ibookReq": null
     },
@@ -4709,9 +4689,43 @@
       "ibook": 1793930520000,
       "pdfReq": null,
       "ibookReq": null
+    },
+    {
+      "id": 602,
+      "lv": "고등",
+      "sub": "과학",
+      "title": "오투 고등 통합과학 2 (22개정)",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null
     }
   ],
   "deleted": [
+    {
+      "id": 259,
+      "lv": "고등",
+      "sub": "과학",
+      "title": "오투 통합과학 2 (22개정)",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794185861119,
+      "reason": "등록 불필요"
+    },
+    {
+      "id": 258,
+      "lv": "고등",
+      "sub": "과학",
+      "title": "오투 통합과학 1 (22개정)",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794185857125,
+      "reason": "등록 불필요"
+    },
     {
       "id": 472,
       "lv": "중학",
