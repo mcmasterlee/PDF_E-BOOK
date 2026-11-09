@@ -2901,16 +2901,6 @@
       "ibookReq": null
     },
     {
-      "id": 295,
-      "lv": "초등",
-      "sub": "전과목",
-      "title": "완자 공부력 교과서 놀이 활동북 4권_여행 편",
-      "pdf": null,
-      "ibook": null,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
       "id": 296,
       "lv": "초등",
       "sub": "전과목",
@@ -3031,26 +3021,6 @@
       "ibookReq": null
     },
     {
-      "id": 308,
-      "lv": "초등",
-      "sub": "국어",
-      "title": "완자 공부력 독해 시작하기 P1",
-      "pdf": null,
-      "ibook": null,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
-      "id": 309,
-      "lv": "초등",
-      "sub": "국어",
-      "title": "완자 공부력 독해 시작하기 P2",
-      "pdf": null,
-      "ibook": null,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
       "id": 310,
       "lv": "초등",
       "sub": "수학",
@@ -3067,26 +3037,6 @@
       "title": "완자 공부력 예비중학 수학 계산 7B",
       "pdf": 1793931120000,
       "ibook": 1793931120000,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
-      "id": 312,
-      "lv": "초등",
-      "sub": "국어",
-      "title": "완자 공부력 예비초등 어휘 시작하기 P1",
-      "pdf": null,
-      "ibook": null,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
-      "id": 313,
-      "lv": "초등",
-      "sub": "국어",
-      "title": "완자 공부력 예비초등 어휘 시작하기 P2",
-      "pdf": null,
-      "ibook": null,
       "pdfReq": null,
       "ibookReq": null
     },
@@ -3567,16 +3517,6 @@
       "title": "완자 공부력 초등수학 계산 6B",
       "pdf": 1793931120000,
       "ibook": 1793931120000,
-      "pdfReq": null,
-      "ibookReq": null
-    },
-    {
-      "id": 362,
-      "lv": "초등",
-      "sub": "수학",
-      "title": "완자 공부력 초등수학 놀이 활동북 5권_덧셈(2), 뺄셈(2), 곱셈",
-      "pdf": null,
-      "ibook": null,
       "pdfReq": null,
       "ibookReq": null
     },
@@ -4672,6 +4612,78 @@
     }
   ],
   "deleted": [
+    {
+      "id": 309,
+      "lv": "초등",
+      "sub": "국어",
+      "title": "완자 공부력 독해 시작하기 P2",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794187564972,
+      "reason": "등록 불필요"
+    },
+    {
+      "id": 308,
+      "lv": "초등",
+      "sub": "국어",
+      "title": "완자 공부력 독해 시작하기 P1",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794187563203,
+      "reason": "등록 불필요"
+    },
+    {
+      "id": 362,
+      "lv": "초등",
+      "sub": "수학",
+      "title": "완자 공부력 초등수학 놀이 활동북 5권_덧셈(2), 뺄셈(2), 곱셈",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794187549667,
+      "reason": "등록 불필요"
+    },
+    {
+      "id": 295,
+      "lv": "초등",
+      "sub": "전과목",
+      "title": "완자 공부력 교과서 놀이 활동북 4권_여행 편",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794187532744,
+      "reason": "등록 불필요"
+    },
+    {
+      "id": 313,
+      "lv": "초등",
+      "sub": "국어",
+      "title": "완자 공부력 예비초등 어휘 시작하기 P2",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794187519917,
+      "reason": "등록 불필요"
+    },
+    {
+      "id": 312,
+      "lv": "초등",
+      "sub": "국어",
+      "title": "완자 공부력 예비초등 어휘 시작하기 P1",
+      "pdf": null,
+      "ibook": null,
+      "pdfReq": null,
+      "ibookReq": null,
+      "deletedAt": 1794187518169,
+      "reason": "등록 불필요"
+    },
     {
       "id": 399,
       "lv": "중학",
